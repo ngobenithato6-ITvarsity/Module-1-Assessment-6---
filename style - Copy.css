@@ -1,0 +1,15 @@
+table{
+  background-color: aqua;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+  padding-bottom: 20;
+}
+
+td{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 12;
+    
+
+} 
